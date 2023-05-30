@@ -31,8 +31,8 @@ function Projects() {
             <ProjectCard
               imgPath={algo}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              title="AlgoVisuals"
+              description="AlgoVisuals is a Sorting Algorithm Visualization with Input Range project is an interactive and educational tool designed to showcase various sorting algorithms in action. It provides a visual representation of how different sorting algorithms operate on a given range of input values, enabling users to understand their functionality and performance."
               ghLink="https://github.com/Harshin1V/AlgoVisuals"
               demoLink="https://algo-visuals.vercel.app/"
             />
@@ -42,8 +42,8 @@ function Projects() {
             <ProjectCard
               imgPath={sc}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              title="ShirtCraft"
+              description="This ShirtCraft using Three.js  is an innovative and interactive web application that allows users to personalize and customize their own shirt designs in real-time. Powered by Three.js, a popular JavaScript library for 3D graphics, this project provides users with a seamless and immersive experience to create unique shirt designs tailored to their preferences."
               ghLink="https://github.com/Harshin1V/ShirtCraft"
               demoLink="https://three-js-flax.vercel.app/"
             />
@@ -53,8 +53,8 @@ function Projects() {
             <ProjectCard
               imgPath={ut}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="WatchWave"
+              description="Project Watchwave is an innovative and exciting endeavor that aims to provide users with an exceptional video-sharing platform reminiscent of the popular platform YouTube. As a clone of YouTube, Watchwave has been meticulously crafted to offer a seamless and immersive video streaming experience for content creators and viewers alike."
               ghLink="https://github.com/Harshin1V/youtube_clone"
               demoLink="https://youtube-clone-harshin1v.vercel.app/"
             />
@@ -64,8 +64,8 @@ function Projects() {
             <ProjectCard
               imgPath={food}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              title="Foodify"
+              description="Introducing Foodify, an innovative food ordering project that aims to revolutionize the way people discover, order, and enjoy their favorite meals. With Foodify, satisfying your cravings is just a few clicks away, providing a seamless and convenient platform for users to indulge in a wide variety of culinary delights."
               ghLink="https://github.com/Harshin1V/Foodify"
               demoLink="https://foodify-nine.vercel.app/"
             />
@@ -75,8 +75,8 @@ function Projects() {
             <ProjectCard
               imgPath={nq}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              title="NQueenVisualization"
+              description="NQueenVisualization, an engaging and interactive project that aims to visually demonstrate the renowned N Queens problem. This project offers an innovative way to understand and explore the complexities of this classic chess puzzle."
               ghLink="https://github.com/Harshin1V/NQueenVisualization"
               demoLink="https://n-queen-visualization.vercel.app/"
             />
